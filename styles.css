@@ -1,0 +1,60 @@
+.menu {
+	font-size: 22px;
+	color: #3D58A6;
+	font-weight: bold;
+	padding: 0px 0px 30px 30px;
+	line-height: 1.3;
+}
+.mtavari {
+	color: #4AC20E;
+	padding-top: 20px;
+}
+.fnd {
+	color: #3D58A6;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 5px;
+}
+h1.fnd {
+	border-style: solid;
+	border-width: medium;
+	border-color: #4AC20E;
+	margin: 0px 30px 30px 30px;
+	border-radius: 5px
+}
+.images {
+	padding-left: 30px;
+	display: inline;
+}
+.kodi {
+	width: 345; 
+	height: 180;
+}
+.klaviatura {
+	width: 240;
+	height: 180;
+	padding-left: 30px; 
+}
+.text {
+	font-size: 18px;
+	padding: 50px 30px 60px 30px;
+	color: #3D58A6;
+	font-weight: bold;
+	line-height: 1.3;
+}
+.link {
+	line-height: 3px;
+	border-bottom: 5px solid #3D58A6;
+	display: inline;
+	padding: 10px 0px 5px 0px;
+}
+hr.line {
+	border-width: 1px;
+	margin: 50px 0px 10px 0px;
+}
+.footer {
+	font-size: 22px;
+	color: #3D58A6;
+	font-weight: 800;
+	text-align: center;
+}
